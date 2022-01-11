@@ -1,0 +1,17 @@
+.socials{
+    margin-top: 2.5%;
+    margin-left: 5%;
+    position: relative;
+}
+
+.socials-group{
+    display: flex;
+    flex-direction: column;
+}
+
+.social-icon i{
+    color: #fff;
+    font-size: 2.0rem;
+    margin-top: 15px;
+    opacity: 68%;
+}
